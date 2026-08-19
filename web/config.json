@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "assetsUrl": "../assets/",
+  "title": "春雨.Demo",
+  "gameId": "3459d7c1-bf08-407c-9343-23221a01a9a2",
+  "resolution": {
+    "width": 3840,
+    "height": 2160
+  },
+  "graphicsRendering": {
+    "mode": "auto",
+    "fixedScale": 1,
+    "autoMaxScale": 2,
+    "antialias": true,
+    "imageSampling": "auto",
+    "frameRate": 60,
+    "effectQuality": "high"
+  },
+  "backgroundColor": "#000000",
+  "window": {
+    "lockAspectRatio": false,
+    "allowMaximize": true,
+    "allowFullscreen": true,
+    "launchMode": "windowed"
+  },
+  "cursor": {
+    "mode": "system",
+    "image": "",
+    "imagePixelRatio": 1,
+    "imageSize": {
+      "width": 24,
+      "height": 24
+    },
+    "hotspot": {
+      "x": 0,
+      "y": 0
+    },
+    "fallback": "default",
+    "css": "",
+    "cssImagePixelRatio": 1,
+    "cssImageSize": {
+      "width": 24,
+      "height": 24
+    }
+  },
+  "encryption": null
+}

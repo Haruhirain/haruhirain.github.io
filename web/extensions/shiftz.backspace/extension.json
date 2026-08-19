@@ -1,0 +1,10 @@
+{
+  "id": "shiftz.backspace",
+  "name": "句尾退格",
+  "author": "shiftz",
+  "version": "1.5.1",
+  "entry": "dist/index.js",
+  "hasProgram": false,
+  "sdkVersion": ">=1.9.0",
+  "description": "在动作行实时选择上一行对白中的退格终点，并设置结束后的等待方式，常用于表达角色说话欲言又止的剧本演出效果。"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "com.notarium.custom-if",
+  "name": "自定义IF判断",
+  "author": "notarium",
+  "version": "0.1.0",
+  "entry": "dist/index.js",
+  "hasProgram": false,
+  "sdkVersion": "^1.9.0",
+  "description": "每次都会进行判断的IF功能，适用于SLG这类复用剧本的场合。"
+}
